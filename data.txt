@@ -1,0 +1,10 @@
+citizens_no 150
+tellers_no 4
+birth_tellers 1
+travel_tellers 1
+id_tellers 1
+reunion_tellers 1
+max_unserved 10
+max_unhappy 12
+max_satisfied 15
+metal_gates_no 8

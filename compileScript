@@ -1,0 +1,6 @@
+ipcrm --all
+gcc parent.c -o parent
+gcc citizen.c -o citizen 
+gcc officer.c -o officer
+gcc teller.c -o teller
+gcc opengl.c -o opengl -lglut -lGLU -lGL -lm
